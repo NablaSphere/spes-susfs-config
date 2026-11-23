@@ -1,0 +1,6 @@
+id=spes_susfs_config
+name=spes SUSFS Config
+version=v1.0.0
+versionCode=1
+author=NablaSphere
+description=Configures BakaSU SUSFS defaults and refreshes spoofed cmdline and verified boot state on spes.
